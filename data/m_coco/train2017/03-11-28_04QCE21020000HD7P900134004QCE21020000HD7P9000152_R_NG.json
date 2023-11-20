@@ -1,0 +1,35 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "scratches",
+      "points": [
+        [
+          1692.5217391304348,
+          1074.0434782608695
+        ],
+        [
+          2249.04347826087,
+          1243.608695652174
+        ],
+        [
+          2238.173913043478,
+          1280.5652173913043
+        ],
+        [
+          1675.1304347826087,
+          1108.8260869565217
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "03-11-28_04QCE21020000HD7P900134004QCE21020000HD7P9000152_R_NG.tiff",
+  "imageData": null,
+  "imageHeight": 3072,
+  "imageWidth": 3072
+}
